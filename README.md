@@ -12,7 +12,7 @@ Available options:
  *memifo - this parameter show memory info
  *swapinfo - this parameter show swap info
  *procinfo - this parameter show running procesess in host system
- *help - use this for show this menu
+ *help - use this for show this menu 
 
 # Additianal:
 *--rm - use this option for delete container after execute script in container
