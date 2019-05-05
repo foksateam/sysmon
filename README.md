@@ -8,11 +8,11 @@ For execute scripts in container use next parameters:
 docker run --pid=host --rm -ti foksateam/sysmon [COMMAND]
 
 Available options:
- *cpuinfo - this parameter show cpu times info
- *memifo - this parameter show memory info
- *swapinfo - this parameter show swap info
- *procinfo - this parameter show running procesess in host system
- *help - use this for show this menu 
+* cpuinfo - this parameter show cpu times info
+* memifo - this parameter show memory info
+* swapinfo - this parameter show swap info
+* procinfo - this parameter show running procesess in host system
+* help - use this for show this menu 
 
 # Additianal:
 *--rm - use this option for delete container after execute script in container
@@ -21,7 +21,3 @@ Available options:
 # Also if you want you can build container using Dockerfile, for in push all files from this repository into one folder an run command:
 docker build -t <Container name> .
 and then run container with parameters listed above
-
-* Your time should be focused on creating something amazing. A project that solves a problem and helps others
-* You shouldn't be doing the same tasks over and over like creating a README from scratch
-* You should element DRY principles to the rest of your life :smile:
