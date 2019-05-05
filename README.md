@@ -21,3 +21,7 @@ Available options:
 # Also if you want you can build container using Dockerfile, for in push all files from this repository into one folder an run command:
 docker build -t <Container name> .
 and then run container with parameters listed above
+
+* Your time should be focused on creating something amazing. A project that solves a problem and helps others
+* You shouldn't be doing the same tasks over and over like creating a README from scratch
+* You should element DRY principles to the rest of your life :smile:
