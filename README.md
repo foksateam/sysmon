@@ -19,7 +19,7 @@ Available options:
 * procinfo - this parameter show running procesess in host system
 * help - use this for show this menu 
 
-# Additianal:
+### Additianal:
 * --rm - use this option for delete container after execute script in container
 * --pid=host - use this if you want to see processes running on host system within container
 
