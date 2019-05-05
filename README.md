@@ -12,7 +12,7 @@ For execute scripts in container use next parameters:
 docker run --pid=host --rm -ti foksateam/sysmon [COMMAND]
 ```
 
-Available options:
+Available [COMMAND] options:
 * cpuinfo - this parameter show cpu times info
 * memifo - this parameter show memory info
 * swapinfo - this parameter show swap info
